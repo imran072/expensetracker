@@ -1,4 +1,4 @@
-# This was done for a project and the project name was: expensetracker
+## This was done for a project and the project name was: expensetracker
 
 In this project I have created a web app that can be used to track expenses of our daily life. The
 name of the app is Expense Tracker. Anyone with the link of the app can be able to register and
